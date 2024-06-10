@@ -8,4 +8,6 @@ Notes
 * When Terraform run files it'll print the output in the alphabetical order
 * terraform plan -var "username=mihawk" - non- interactive mode code
 * Variables types official refernce website : https://developer.hashicorp.com/terraform/language/expressions/types
+* terraform plan -var 'users=["shanks","luffy","ace","sabo"]'
+* terraform functions -https://developer.hashicorp.com/terraform/language/functions
 
