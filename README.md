@@ -10,4 +10,7 @@ Notes
 * Variables types official refernce website : https://developer.hashicorp.com/terraform/language/expressions/types
 * terraform plan -var 'users=["shanks","luffy","ace","sabo"]'
 * terraform functions -https://developer.hashicorp.com/terraform/language/functions
-
+* .tfvar files is used to stores the values of the variables.
+* cp -rvf tf-var  tf-var-custom
+* terraform plan -var-file=development.tfvars
+* export TF_VAR_username="robin"
