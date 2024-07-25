@@ -11,3 +11,10 @@ Notes
 * terraform plan -var 'users=["shanks","luffy","ace","sabo"]'
 * terraform functions -https://developer.hashicorp.com/terraform/language/functions
 
+## Table of Content
+
+1. Introduction to IaC (Infrastructure as Code)
+2. Types of IaC Tools
+3. How to Install Terraform in windows/Linux 
+4. Terraform Basics
+ 
